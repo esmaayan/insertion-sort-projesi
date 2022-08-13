@@ -33,3 +33,4 @@ Listedeki en küçük elemanı bul başa yaz.
 [2,3,4,5,7,9,8,15,6] 
 
 
+
