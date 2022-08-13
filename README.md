@@ -32,4 +32,6 @@ Listedeki en küçük elemanı bul başa yaz.
 4. en küçük elemanı 4. sıraya yaz.
 [2,3,4,5,7,9,8,15,6] 
 
+www.patika.dev
+
 
